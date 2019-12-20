@@ -1,0 +1,485 @@
+* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920___1 {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 166px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_2 {
+		opacity: 0.51;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 643px;
+		height: 846px;
+		left: 24px;
+		top: 208px;
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1173px;
+		height: 228px;
+		left: 696px;
+		top: 278px;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 1173px;
+		height: 228px;
+		left: 696px;
+		top: 688px;
+	}
+	#Rectangle_5 {
+		opacity: 0.51;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1173px;
+		height: 228px;
+		left: 696px;
+		top: 278px;
+	}
+	#Rectangle_6 {
+		opacity: 0.51;
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 1173px;
+		height: 228px;
+		left: 696px;
+		top: 688px;
+	}
+	#Ask_a_question_ {
+		position: absolute;
+		left: 63px;
+		top: 253px;
+		overflow: visible;
+		width: 268px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(112,112,112,1);
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 551px;
+		height: 506px;
+		left: 63px;
+		top: 322px;
+	}
+	#Enter_Message {
+		position: absolute;
+		left: 117px;
+		top: 327px;
+		overflow: visible;
+		width: 248px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(112,112,112,1);
+	}
+	#Specify_course_ {
+		position: absolute;
+		left: 63px;
+		top: 857px;
+		overflow: visible;
+		width: 251px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(112,112,112,1);
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		height: 61px;
+		left: 339px;
+		top: 857px;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 240px;
+		height: 83px;
+		left: 226px;
+		top: 947px;
+	}
+	#Post {
+		position: absolute;
+		left: 301px;
+		top: 962px;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_10 {
+		opacity: 0.51;
+	}
+	.button {
+  background-color: white; /* Green */
+  border: transparent;
+  border-radius: 10%;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 45px;
+}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 587px;
+		height: 114px;
+		left: 1282px;
+		top: 548px;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 23px;
+		left: 1233px;
+		top: 587px;
+	}
+	#DASHBOARD {
+		position: absolute;
+		left: 737px;
+		top: 22px;
+		overflow: hidden;
+		width: 678px;
+		height: 94px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 75px;
+		color: rgba(255,240,240,1);
+	}
+	textarea {
+		font-family: sans-serif;
+		font-size: 40px;
+  width: 550px;
+  height: 500px;
+}
+
+	#Since_you_liked_Computer_Scien {
+		position: absolute;
+		left: 737px;
+		top: 188px;
+		overflow: hidden;
+		width: 754px;
+		height: 65px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(37,35,35,1);
+	}
+	.Ellipse_3 {
+
+		position: absolute;
+		overflow: visible;
+		width: 184px;
+		height: 184px;
+		left: 723px;
+		top: 298px;
+	}
+	#ID1 {
+		position: absolute;
+		width: 184px;
+		height: 184px;
+		left: 723px;
+		top: 298px;
+		overflow: visible;
+	}
+	#ID2 {
+		position: absolute;
+		width: 184px;
+		height: 184px;
+		left: 723px;
+		top: 710px;
+		overflow: visible;
+	}
+	.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -25%; //centers the image
+  height: 100%;
+  width: auto;
+}
+	.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 184px;
+		height: 184px;
+		left: 723px;
+		top: 710px;
+	}
+	#Jane_Doe {
+		position: absolute;
+		left: 943px;
+		top: 296px;
+		overflow: visible;
+		width: 172px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(37,35,35,1);
+	}
+	#pursuing_Computer_Science {
+		position: absolute;
+		left: 1124px;
+		top: 308px;
+		overflow: hidden;
+		width: 417px;
+		height: 43px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#_How_to_do_Scanner_in_Java__ {
+		position: absolute;
+		left: 1013px;
+		top: 365px;
+		overflow: visible;
+		width: 323px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#Technical_Question {
+		position: absolute;
+		left: 1636px;
+		top: 282px;
+		overflow: hidden;
+		width: 235px;
+		height: 48px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#ID18_min_ago___ {
+		position: absolute;
+		left: 1715px;
+		top: 469px;
+		overflow: hidden;
+		width: 235px;
+		height: 48px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#Jane_Doe_ {
+		position: absolute;
+		left: 943px;
+		top: 706px;
+		overflow: visible;
+		width: 172px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(37,35,35,1);
+	}
+	#finished_Computer_Science {
+		position: absolute;
+		left: 1124px;
+		top: 716px;
+		overflow: hidden;
+		width: 417px;
+		height: 43px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#_I_am_currently_a_data_analyst {
+		position: absolute;
+		left: 1013px;
+		top: 791px;
+		overflow: visible;
+		width: 691px;
+		height: 103px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#ID19_min_ago___ {
+		position: absolute;
+		left: 1715px;
+		top: 874px;
+		overflow: hidden;
+		width: 235px;
+		height: 48px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#Jane_Doesn_t_replied {
+		position: absolute;
+		left: 1296px;
+		top: 553px;
+		overflow: hidden;
+		width: 281px;
+		height: 51px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#_Scanner_name_new_Scanner_Syst {
+		position: absolute;
+		left: 1296px;
+		top: 610px;
+		overflow: visible;
+		width: 470px;
+		height: 33px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		height: 74px;
+		left: 1774px;
+		top: 562px;
+	}
+	#Rectangle_12 {
+		opacity: 0.51;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 587px;
+		height: 114px;
+		left: 1282px;
+		top: 951px;
+	}
+	.Ellipse_6 {
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		height: 23px;
+		left: 1233px;
+		top: 990px;
+	}
+	#Jane_Doesn_t_replied_bd {
+		position: absolute;
+		left: 1296px;
+		top: 956px;
+		overflow: hidden;
+		width: 281px;
+		height: 51px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	#_Scanner_name_new_Scanner_Syst_be {
+		position: absolute;
+		left: 1296px;
+		top: 1013px;
+		overflow: visible;
+		width: 470px;
+		height: 33px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(37,35,35,1);
+	}
+	select {
+    min-width:265px;
+    min-height: 65px;
+    border-width: 10px;
+    border-color: rgba(50, 50, 50, 0.14);
+    margin: 10px 10px 10px 0px;
+}
